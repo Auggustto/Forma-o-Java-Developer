@@ -1,3 +1,4 @@
+package edu.formacaojava.introducao;
 public class DeclarandoVariaveisMetodos {
     
     public static void main (String [] args) {

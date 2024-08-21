@@ -1,3 +1,4 @@
+package edu.formacaojava.introducao;
 //  Convenção: CamelCase, com a primeira letra maiúscula.
 public class Nomenclaturas {
 

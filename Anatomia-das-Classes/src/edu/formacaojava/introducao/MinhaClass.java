@@ -1,3 +1,4 @@
+package edu.formacaojava.introducao;
 public class MinhaClass {
 
     // A classe main em Java é uma classe especial que contém o ponto de entrada do programa, ou seja, 
