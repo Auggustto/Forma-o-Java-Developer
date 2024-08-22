@@ -1,4 +1,4 @@
-package edu.formacaojava.metodos;
+package edu.formacaojava.introducao.metodos;
 
 public class Usuario {
 

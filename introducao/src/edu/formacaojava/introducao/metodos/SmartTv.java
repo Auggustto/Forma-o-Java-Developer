@@ -1,10 +1,6 @@
-package edu.formacaojava.escopo;
+package edu.formacaojava.introducao.metodos;
 
-
-// O escopo em Java refere-se ao contexto dentro do qual uma variável ou método é acessível e utilizável. 
-// Em outras palavras, o escopo determina onde no código você pode acessar uma variável ou invocar um método. 
-// Existem diferentes níveis de escopo em Java, dependendo de onde e como a variável ou o método é declarado.
-
+// Aplicando metodos de forma pratica (SmartTV)
 public class SmartTv {
     
     boolean ligada = false;

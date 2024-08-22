@@ -1,4 +1,4 @@
-package edu.formacaojava.escopo;
+package edu.formacaojava.introducao.escopo;
 
 public class Usuario {
 
