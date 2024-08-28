@@ -1,4 +1,4 @@
-package edu.formacaojava.POO;
+package edu.formacaojava.POO.carro;
 
 public class PooClasseCarro {
 
